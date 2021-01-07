@@ -1,8 +1,8 @@
-### Desafio DIO: Reprodução do Game do Dinossauro sem intenet :video_game:
+### Desafio DIO: Reprodução do Game do Dinossauro sem internet :video_game:
 
 #### Diferenciais:
 
-- Som no salto do dinoussauro 
+- Som no pulo do dinoussauro 
 - Som de 'Game over' quando o usuário perde
 
 #### Linguagens utilizadas:
